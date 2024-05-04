@@ -1,3 +1,4 @@
+*://*.telegrampcn.com/*
 *://baike.baidu.com/*
 *://zhidao.baidu.com/*
 *://dfclyt.com/*
